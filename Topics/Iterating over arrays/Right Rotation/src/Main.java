@@ -4,7 +4,20 @@ import java.util.Arrays;
 class Main {
     // implement me
     private static void rotate(int[] arr, int steps) {
-
+        int len = arr.length;
+        int[] arr1 = new int[len];
+        if (steps > len) {
+            steps %= len;
+        }
+        int idx = len - steps;
+        for (int i = 0; i < steps; i++) {
+            arr1[i] = arr[idx++];
+        }
+        idx = 0;
+        for (int i = steps; i < len; i++) {
+            arr1[i] = arr[idx++];
+        }
+        System.arraycopy(arr1, 0, arr, 0, len);
     }
 
     // do not change code below
