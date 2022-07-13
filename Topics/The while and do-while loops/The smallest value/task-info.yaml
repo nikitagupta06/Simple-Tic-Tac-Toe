@@ -13,12 +13,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2229#comment
-status: Failed
+status: Solved
 feedback:
-  message: "Failed test #1 of 13. Runtime error\n\nThis is a sample test from the\
-    \ problem statement!\n\nTest input:\n6188989133\nCorrect output:\n13\n\nYour code\
-    \ output:\n\n\nError:\nException in thread \"main\" java.util.InputMismatchException:\
-    \ For input string: \"6188989133\"\n\tat java.base/java.util.Scanner.nextInt(Scanner.java:2264)\n\
-    \tat java.base/java.util.Scanner.nextInt(Scanner.java:2212)\n\tat Main.main(Main.java:6)\n"
-  time: Sat, 02 Jul 2022 07:59:41 UTC
+  message: <html>Correct solution</html>
+  time: Wed, 13 Jul 2022 07:00:13 UTC
 record: -1
