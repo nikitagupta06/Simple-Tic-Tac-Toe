@@ -89,6 +89,15 @@
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Reading a single word" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
             <option value="$PROJECT_DIR$/Topics/Scanning the input/Understanding System.in" />
+            <option value="$PROJECT_DIR$/Topics/String/ Hello  string" />
+            <option value="$PROJECT_DIR$/Topics/String/Check prefix ignoring the case" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a character" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Topics/String/Finding string expressions" />
+            <option value="$PROJECT_DIR$/Topics/String/Operations with strings" />
+            <option value="$PROJECT_DIR$/Topics/String/Statements" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
             <option value="$PROJECT_DIR$/Topics/The for-loop/Arithmetic average" />
             <option value="$PROJECT_DIR$/Topics/The for-loop/Determine the result" />
             <option value="$PROJECT_DIR$/Topics/The for-loop/Fizz Buzz" />

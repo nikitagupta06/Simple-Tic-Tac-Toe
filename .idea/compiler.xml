@@ -80,6 +80,15 @@
       <module name="Simple_Tic-Tac-Toe.Topics-Scanning_the_input-Reading_a_single_word.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Scanning_the_input-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-Scanning_the_input-Understanding_System.in.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-_Hello__string.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Check_prefix_ignoring_the_case.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Comparing_strings_ignoring_whitespaces.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Extracting_a_character.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Extracting_a_substring.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Finding_string_expressions.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Operations_with_strings.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-String-Theory.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Arithmetic_average.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Determine_the_result.main" target="11" />
       <module name="Simple_Tic-Tac-Toe.Topics-The_for-loop-Fizz_Buzz.main" target="11" />
