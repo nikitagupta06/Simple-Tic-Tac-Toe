@@ -7,7 +7,7 @@ class Main {
         int len = arr.length;
         int[] arr1 = new int[len];
         if (steps > len) {
-            steps %= len;
+            steps = steps % len;
         }
         int idx = len - steps;
         for (int i = 0; i < steps; i++) {
